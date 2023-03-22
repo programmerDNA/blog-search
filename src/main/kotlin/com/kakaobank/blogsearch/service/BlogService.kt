@@ -95,6 +95,7 @@ class BlogService {
             }
             else -> {
                 keywordEnt.searched()
+                keywordRepo.save(keywordEnt)
             }
         }
     }

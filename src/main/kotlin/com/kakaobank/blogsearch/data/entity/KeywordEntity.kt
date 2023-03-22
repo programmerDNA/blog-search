@@ -39,7 +39,7 @@ class KeywordEntity {
     }
 
     /* 함수 */
-    fun searched() = this.searchCnt++ // 조회 횟수 증가
+    fun searched(): Int = this.searchCnt++ // 조회 횟수 증가
 
 }
 
