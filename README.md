@@ -9,8 +9,8 @@ Also, this system provides you top 10 most viewed keywords list.
 - Java 11+
 
 ## Download & Guide Link
-- Executable Jar: 
-- API Guide: 
+- Executable Jar: https://drive.google.com/file/d/1SNODtqeAq1AlEk6g_bV6WW-KCzvR8vNi/view?usp=share_link
+- API Guide: https://github.com/programmerDNA/blog-search
 
 ## How to Load Service?
 Run Executable Jar:
