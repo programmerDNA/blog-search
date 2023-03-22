@@ -10,7 +10,7 @@ Also, this system provides you top 10 most viewed keywords list.
 
 ## Download & Guide Link
 - Executable Jar: https://drive.google.com/file/d/1SNODtqeAq1AlEk6g_bV6WW-KCzvR8vNi/view?usp=share_link
-- API Guide: https://github.com/programmerDNA/blog-search
+- API Guide: https://documenter.getpostman.com/view/7149735/2s93K1qzkv
 
 ## How to Load Service?
 Run Executable Jar:
